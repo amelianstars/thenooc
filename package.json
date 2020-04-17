@@ -1,0 +1,17 @@
+{
+  "name": "nooc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "square-connect": "^3.20200325.0",
+    "stripe": "^8.39.0"
+  }
+}
